@@ -11,7 +11,7 @@
 //! called *synchronizability* and *cosynchronizability*
 //! (see [paper](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/synchronizability-and-cosynchronizability.pdf)).
 //!
-//! This research project explores these properties using a common abstract in Rust.
+//! This research project explores these properties using a common abstraction in Rust.
 //!
 //! ### Introduction to Synchronizability and Cosynchronizability
 //!

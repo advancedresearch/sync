@@ -16,6 +16,11 @@ This list is created to build intuition about such systems.
 - Primes are cosynchronizable to multiplication
 - Primes are synchronizable to natural numbers
 
+### Music, Notes and Time
+
+- Notes are cosynchronizable to music
+- Notes are synchronizable to time
+
 ### Photo Albums, Tourists and Tourist Attractions
 
 - Tourists' photos are cosynchronizable to photo albums

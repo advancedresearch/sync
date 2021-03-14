@@ -10,6 +10,11 @@
 - Primes are cosynchronizable to multiplication
 - Primes are synchronizable to natural numbers
 
+### Physical Simulations, Center of Mass and Continuous Objects
+
+- Center of mass is cosycnhronizable chaos attractors to physical simulations
+- Center of mass is synchronizable chaos attractors to continuous objects
+
 ### Temples, Pilgrims and Offerings
 
 - Pilgrims are cosynchronizable to temples

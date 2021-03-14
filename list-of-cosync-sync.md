@@ -10,6 +10,11 @@
 - Primes are cosynchronizable to multiplication
 - Primes are synchronizable to natural numbers
 
+### Photo Albums, Tourists and Tourist Attractions
+
+- Tourists' photos are cosynchronizable to photo albums
+- Tourists' cameras are synchronizable to tourist attractions
+
 ### Physical Simulations, Center of Mass and Continuous Objects
 
 - Center of mass is cosynchronizable chaos attractor to physical simulations

@@ -1,5 +1,11 @@
 # List of Cosynchronizable -> Synchronizable Systems
 
+A lot of real world systems have a natural hierachy of type `cosynchronizable -> synchronizable`.
+
+It means that there is some kind of "center" which is related to some kind of "circumference" through some intermediate medium.
+
+This list is created to build intuition about such systems.
+
 ### Bee Hives
 
 - Bees are cosynchronizable to the bee queen

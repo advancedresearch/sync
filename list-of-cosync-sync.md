@@ -12,8 +12,8 @@
 
 ### Physical Simulations, Center of Mass and Continuous Objects
 
-- Center of mass is cosycnhronizable chaos attractors to physical simulations
-- Center of mass is synchronizable chaos attractors to continuous objects
+- Center of mass is cosynchronizable chaos attractor to physical simulations
+- Center of mass is synchronizable chaos attractor to continuous objects
 
 ### Temples, Pilgrims and Offerings
 

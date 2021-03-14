@@ -29,3 +29,8 @@
 
 - The target position of a video tape is cosynchronizable to the read/write head
 - The target position of a video tape is synchronizable to positions in general on the video tape
+
+### Web Browsers, TCP/IP Packages, Servers
+
+- Received TCP/IP packages are cosynchronizable to web browsers
+- TCP/IP packages requests are synchronizable to servers

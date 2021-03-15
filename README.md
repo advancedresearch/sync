@@ -46,4 +46,4 @@ in a systematic way.
 - Cosynchronizability: An item which time can bring other items to itself
 
 This way of thinking is slightly more flexible and perhaps more applicable
-than homotopy maps, which might help build intuition about hihgher dimensional mathematics.
+than homotopy maps, which might help build intuition about higher dimensional mathematics.
